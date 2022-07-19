@@ -1,0 +1,4 @@
+﻿  MyForm.cpp
+C:\Users\hafiz\Desktop\Guess Number\Guess Number\MyForm.h(1377,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Guess Number.vcxproj -> C:\Users\hafiz\Desktop\Guess Number\x64\Debug\Guess Number.exe

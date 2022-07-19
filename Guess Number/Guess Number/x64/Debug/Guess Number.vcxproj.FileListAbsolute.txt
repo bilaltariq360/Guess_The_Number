@@ -1,0 +1,4 @@
+C:\Users\hafiz\Desktop\Guess Number\Guess Number\x64\Debug\Guess Number.vcxproj.AssemblyReference.cache
+C:\Users\hafiz\Desktop\Guess Number\Guess Number\x64\Debug\Guess Number.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\hafiz\Desktop\Guess Number\Guess Number\x64\Debug\GuessNumber.MyForm.resources
+C:\Users\hafiz\Desktop\Guess Number\Guess Number\x64\Debug\Guess Number.vcxproj.GenerateResource.cache
